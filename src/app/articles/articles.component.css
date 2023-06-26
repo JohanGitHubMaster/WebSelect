@@ -1,0 +1,61 @@
+.button-icon {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.combo-box {
+    margin-left: 20px;
+    font-size: small;
+}
+
+.mat-form-field-100 {
+    width: 100%;
+}
+
+.mat-form-field-50 {
+    width: 50%;
+}
+
+.button-search {
+    margin-bottom: 20px;
+}
+mat-grid-tile {
+    justify-content: flex-start !important ;
+    align-items: flex-start !important;
+ }
+
+ .flex-start {
+    position: absolute;
+    left: 0px;
+ 
+  }
+  .flex-start-button {
+    position: absolute;
+    left: 0px;
+    top: 5px;
+  }
+
+  .margin-label-right{
+    margin-right: 20px;
+  }
+  .margin-label-left{
+    margin-left: 20px;
+  }
+
+  .flex-end {
+    position: absolute;
+    right: 0px;
+  }
+
+  .mat-divider {
+    border-top-color: black;
+}
+
+.mat-select-background {
+    background-color: red;
+  }
+
+  
